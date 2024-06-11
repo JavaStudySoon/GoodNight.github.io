@@ -50,6 +50,8 @@ body {
     position: absolute;
     background-color: #eae2b7;
     background-image: url("photo.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
     width: 270px;
     height: 170px;
     top: 5px;
@@ -71,13 +73,13 @@ body {
   .text {
     position: absolute;
     font-family: "Snell Roundhand", cursive;
-    font-size: 28px;
+    font-size: 25px;
     text-align: center;
     margin-right: 40px;
     line-height: 25px;
     top: 25px;
     left: 45px;
-    color: #003049;
+    color: white;
   }
   
   .heart {
