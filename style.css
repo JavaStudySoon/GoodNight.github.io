@@ -49,6 +49,7 @@ body {
   .card {
     position: absolute;
     background-color: #eae2b7;
+    background-image: url("photo.jpg");
     width: 270px;
     height: 170px;
     top: 5px;
@@ -72,6 +73,7 @@ body {
     font-family: "Snell Roundhand", cursive;
     font-size: 28px;
     text-align: center;
+    margin-right: 40px;
     line-height: 25px;
     top: 25px;
     left: 45px;
